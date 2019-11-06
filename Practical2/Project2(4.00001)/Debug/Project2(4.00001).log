@@ -1,0 +1,4 @@
+﻿  Source.cpp
+I:\CSC 2040\Practicals\Practical2\Practical 2\Project2(4.00001)\Source.cpp(1,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+I:\CSC 2040\Practicals\Practical2\Practical 2\Project2(4.00001)\Source.cpp(7): warning C4172:  returning address of local variable or temporary: cube
+  Project2(4.00001).vcxproj -> I:\CSC 2040\Practicals\Practical2\Practical 2\Debug\Project2(4.00001).exe
